@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\ModTime.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\ModTime.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\ModTime.AssemblyInfo.cs
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\ModTime.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\ModTime.dll
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\ref\ModTime.dll
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\ModTime.pdb
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\bin\Debug\netstandard2.0\ModTime.deps.json
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\bin\Debug\netstandard2.0\ModTime.dll
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\bin\Debug\netstandard2.0\ref\ModTime.dll
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\bin\Debug\netstandard2.0\ModTime.pdb
+C:\Users\dalli\source\repos\ModTime\ModTime\ModTime\obj\Debug\netstandard2.0\XamlC.stamp

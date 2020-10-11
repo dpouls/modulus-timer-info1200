@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Modulus Time Converter"
+             x:Class="ModTime.MainPage">
+
+    <StackLayout>
+        <Label x:Name="Title" Text="Dallin's Time Machine" HorizontalOptions="Center" VerticalOptions="Center" Margin="20" FontSize="30"/>
+        <Label x:Name="Time" Text="00:00" FontSize="150"/>
+        <Entry x:Name="EntSeconds" Placeholder="Enter Seconds" FontSize="50" Keyboard="Telephone" HorizontalOptions="Center"/>
+        <Button x:Name="BtnConvert" Text="Convert to minutes" Clicked="BtnConvert_Clicked" FontSize="50" HorizontalOptions="Center"/>
+    </StackLayout>
+
+</ContentPage>
